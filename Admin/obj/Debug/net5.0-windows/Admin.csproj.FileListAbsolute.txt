@@ -1,0 +1,105 @@
+C:\Users\Abaka\source\repos\Admin\Admin\bin\Debug\net5.0-windows\Admin.exe
+C:\Users\Abaka\source\repos\Admin\Admin\bin\Debug\net5.0-windows\Admin.deps.json
+C:\Users\Abaka\source\repos\Admin\Admin\bin\Debug\net5.0-windows\Admin.runtimeconfig.json
+C:\Users\Abaka\source\repos\Admin\Admin\bin\Debug\net5.0-windows\Admin.runtimeconfig.dev.json
+C:\Users\Abaka\source\repos\Admin\Admin\bin\Debug\net5.0-windows\Admin.dll
+C:\Users\Abaka\source\repos\Admin\Admin\bin\Debug\net5.0-windows\ref\Admin.dll
+C:\Users\Abaka\source\repos\Admin\Admin\bin\Debug\net5.0-windows\Admin.pdb
+C:\Users\Abaka\source\repos\Admin\Admin\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Abaka\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.csprojAssemblyReference.cache
+C:\Users\Abaka\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.Form1.resources
+C:\Users\Abaka\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.csproj.GenerateResource.cache
+C:\Users\Abaka\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abaka\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.AssemblyInfoInputs.cache
+C:\Users\Abaka\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.AssemblyInfo.cs
+C:\Users\Abaka\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.csproj.CoreCompileInputs.cache
+C:\Users\Abaka\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.csproj.CopyComplete
+C:\Users\Abaka\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.dll
+C:\Users\Abaka\source\repos\Admin\Admin\obj\Debug\net5.0-windows\ref\Admin.dll
+C:\Users\Abaka\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.pdb
+C:\Users\Abaka\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.genruntimeconfig.cache
+C:\Users\Abaka\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.Users.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\bin\Debug\net5.0-windows\Admin.exe
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\bin\Debug\net5.0-windows\Admin.deps.json
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\bin\Debug\net5.0-windows\Admin.runtimeconfig.json
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\bin\Debug\net5.0-windows\Admin.runtimeconfig.dev.json
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\bin\Debug\net5.0-windows\Admin.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\bin\Debug\net5.0-windows\ref\Admin.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\bin\Debug\net5.0-windows\Admin.pdb
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.csproj.AssemblyReference.cache
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.Users.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.csproj.GenerateResource.cache
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.AssemblyInfoInputs.cache
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.AssemblyInfo.cs
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.csproj.CoreCompileInputs.cache
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.csproj.CopyComplete
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\ref\Admin.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.pdb
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.genruntimeconfig.cache
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.Menu.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.RoleForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.Properties.Resources.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.Froms.ComicsForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.Froms.DoljForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.Froms.FilForSkladForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.Froms.FilialForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.Froms.PostavForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.Froms.SkladForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.Froms.ClientForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.Froms.SaleForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.Froms.SearchForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.Froms.Сотрудники.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.csproj.ResolveComReference.cache
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Admin.Froms.RegistrationForms.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\obj\Debug\net5.0-windows\Interop.MMC20.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\source\repos\Admin\Admin\bin\Debug\net5.0-windows\Maroquio.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\bin\Debug\net5.0-windows\Admin.exe
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\bin\Debug\net5.0-windows\Admin.deps.json
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\bin\Debug\net5.0-windows\Admin.runtimeconfig.json
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\bin\Debug\net5.0-windows\Admin.runtimeconfig.dev.json
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\bin\Debug\net5.0-windows\Admin.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\bin\Debug\net5.0-windows\ref\Admin.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\bin\Debug\net5.0-windows\Admin.pdb
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\bin\Debug\net5.0-windows\Maroquio.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.csproj.AssemblyReference.cache
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Interop.MMC20.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.csproj.ResolveComReference.cache
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.Froms.ClientForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.Froms.ComicsForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.Froms.DoljForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.Froms.Сотрудники.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.Froms.FilForSkladForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.Froms.FilialForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.Froms.ForClient.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.Menu.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.Froms.PostavForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.Froms.RegistrationForms.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.RoleForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.Froms.SaleForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.Froms.SearchForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.Froms.SkladForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.Users.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.Froms.ViewStuff.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.Properties.Resources.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.csproj.GenerateResource.cache
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.AssemblyInfoInputs.cache
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.AssemblyInfo.cs
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.csproj.CoreCompileInputs.cache
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.csproj.CopyComplete
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\ref\Admin.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.pdb
+C:\Users\Abaka\OneDrive\Рабочий стол\ComicsHero-main\Admin\obj\Debug\net5.0-windows\Admin.genruntimeconfig.cache

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Froms\ClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Froms\ComicsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Froms\DoljForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Froms\EmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Froms\FilForSkladForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Froms\FilialForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Froms\ForClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Froms\PostavForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Froms\RegistrationForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Froms\RoleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Froms\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Froms\SaleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Froms\SearchForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Froms\SkladForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Froms\Users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Froms\ViewStuff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
