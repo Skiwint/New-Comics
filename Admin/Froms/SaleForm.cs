@@ -24,7 +24,7 @@ namespace Admin.Froms
         RegistrationForms registrationForms = new RegistrationForms();
         private void BackForm_Click(object sender, EventArgs e)
         {
-            if (x == 0)
+            if (RoleCheck.KassInt == 0)
             {
                 Menu menu = new Menu();
                 this.Hide();

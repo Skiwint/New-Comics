@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,10 +16,11 @@ namespace Admin.Froms
     {
         AllModel<User> users = new AllModel<User>("Users");
 
-        SkladForm skladForm = new SkladForm();
+        
         FilialForm filialForm = new FilialForm();
         FilForSkladForm fil = new FilForSkladForm();
         PostavForm postavForm = new PostavForm();
+        
         public RegistrationForms()
         {
            
@@ -33,6 +35,7 @@ namespace Admin.Froms
         }
         private async void SingIn_Click(object sender, EventArgs e)
         {
+            SingIn.Enabled = false;
             var Pass = GetHash(PasswordTB.Text);
             if (users.Objs.Any(user => user.Login == LoginTB.Text && user.Password == Pass))
             {
@@ -40,6 +43,8 @@ namespace Admin.Froms
                 switch((await new Role { Id = (int)user.RoleId }.Get()).RoleName)
                 {
                     case"Администратор":
+                        RoleCheck.skladInt = 0;
+                        RoleCheck.KassInt = 0;
                         Menu menu = new Menu();
                         this.Hide();
                         menu.Show();
@@ -56,16 +61,17 @@ namespace Admin.Froms
 
                     case "Кладовщик":
                         this.Hide();
+                        RoleCheck.skladInt = 1;
+                        SkladForm skladForm = new SkladForm();
                         skladForm.Show();
-                        skladForm.x = 1;
                         break;
 
 
                     case "Кассир":
+                        RoleCheck.KassInt = 1;
                         SaleForm saleForm = new SaleForm();
                         this.Hide();
                         saleForm.Show();
-                        saleForm.x = 1;
                         break;
 
 
@@ -80,6 +86,11 @@ namespace Admin.Froms
                         return;
                 }
             }
+            else
+            {
+                MessageBox.Show("Неверный логин или пароль, повторите попытку");
+            }
+            SingIn.Enabled = true;
         }
 
         private void RegistrationForms_Load(object sender, EventArgs e)

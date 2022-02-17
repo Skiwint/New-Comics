@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,10 +16,11 @@ namespace Admin.Froms
         AllModel<BranchForSklad> BsS = new AllModel<BranchForSklad>("BranchForSklads");
         AllModel<Branch> branches = new AllModel<Branch>("Branches");
         AllModel<Sklad> sklads = new AllModel<Sklad>("Sklads");
+        
         public FilForSkladForm()
         {
             InitializeComponent();
-            if (skladForm.x != 0)
+            if (RoleCheck.skladInt != 1)
             {
                 Filialbtn.Visible = false;
                 SkladBtn.Visible = false;
@@ -34,7 +36,7 @@ namespace Admin.Froms
         SkladForm skladForm = new SkladForm();
         private void BackForm_Click(object sender, EventArgs e)
         {
-            if (skladForm.x != 0)
+            if (RoleCheck.skladInt != 1)
             {
                 Menu menu = new Menu();
                 this.Hide();
@@ -47,7 +49,7 @@ namespace Admin.Froms
                 registrationForms.Show();
             }
         }
-
+        
         private void FilForSkladForm_Load(object sender, EventArgs e)
         {
             SkladBox.DataSource = sklads.Objs;

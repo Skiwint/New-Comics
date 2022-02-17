@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -14,10 +15,11 @@ namespace Admin.Froms
     {
         AllModel<Sklad> sklads = new AllModel<Sklad>("Sklads");
         AllModel<Supplier> supplier = new AllModel<Supplier>("Suppliers");
+        
         public SkladForm()
         {
             InitializeComponent();
-            if(x == 0)
+            if(RoleCheck.skladInt != 0)
             {
                 PostavBtn.Visible = true;
                 FilialBtn.Visible = true;
@@ -34,7 +36,7 @@ namespace Admin.Froms
         public int x;
         private void BackForm_Click(object sender, EventArgs e)
         {
-            if (x == 0)
+            if (RoleCheck.skladInt == 0)
             {
                 Menu menu = new Menu();
                 this.Hide();

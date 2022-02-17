@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,10 +14,11 @@ namespace Admin.Froms
     public partial class PostavForm : Form
     {
         AllModel<Supplier> supliers = new AllModel<Supplier>("Suppliers");
+        
         public PostavForm()
         {
             InitializeComponent();
-            if(skladForm.x != 0)
+            if(RoleCheck.skladInt != 1)
             {
                 SkladBtn.Visible = false;
                 FilPoSklad.Visible = false;
@@ -32,7 +34,7 @@ namespace Admin.Froms
         SkladForm skladForm = new SkladForm();
         private void button1_Click(object sender, EventArgs e)
         {
-            if (skladForm.x != 0)
+            if (RoleCheck.skladInt != 1)
             {
                 Menu menu = new Menu();
                 this.Hide();

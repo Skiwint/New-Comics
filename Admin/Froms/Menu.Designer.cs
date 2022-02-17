@@ -34,7 +34,6 @@
             this.ComicsForm = new System.Windows.Forms.Button();
             this.SklasForm = new System.Windows.Forms.Button();
             this.FilialSkalForm = new System.Windows.Forms.Button();
-            this.ClientForm = new System.Windows.Forms.Button();
             this.PostavForm = new System.Windows.Forms.Button();
             this.SaleForm = new System.Windows.Forms.Button();
             this.SotrudnikiForm = new System.Windows.Forms.Button();
@@ -104,23 +103,11 @@
             this.FilialSkalForm.UseVisualStyleBackColor = false;
             this.FilialSkalForm.Click += new System.EventHandler(this.FilialSkalForm_Click);
             // 
-            // ClientForm
-            // 
-            this.ClientForm.BackColor = System.Drawing.Color.White;
-            this.ClientForm.Font = new System.Drawing.Font("Century Gothic", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.ClientForm.Location = new System.Drawing.Point(337, 732);
-            this.ClientForm.Name = "ClientForm";
-            this.ClientForm.Size = new System.Drawing.Size(212, 59);
-            this.ClientForm.TabIndex = 6;
-            this.ClientForm.Text = "Клиенты";
-            this.ClientForm.UseVisualStyleBackColor = false;
-            this.ClientForm.Click += new System.EventHandler(this.ClientForm_Click);
-            // 
             // PostavForm
             // 
             this.PostavForm.BackColor = System.Drawing.Color.White;
             this.PostavForm.Font = new System.Drawing.Font("Century Gothic", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.PostavForm.Location = new System.Drawing.Point(337, 812);
+            this.PostavForm.Location = new System.Drawing.Point(337, 727);
             this.PostavForm.Name = "PostavForm";
             this.PostavForm.Size = new System.Drawing.Size(212, 59);
             this.PostavForm.TabIndex = 7;
@@ -132,7 +119,7 @@
             // 
             this.SaleForm.BackColor = System.Drawing.Color.White;
             this.SaleForm.Font = new System.Drawing.Font("Century Gothic", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.SaleForm.Location = new System.Drawing.Point(337, 892);
+            this.SaleForm.Location = new System.Drawing.Point(337, 807);
             this.SaleForm.Name = "SaleForm";
             this.SaleForm.Size = new System.Drawing.Size(212, 59);
             this.SaleForm.TabIndex = 8;
@@ -207,7 +194,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
-            this.ClientSize = new System.Drawing.Size(935, 1030);
+            this.ClientSize = new System.Drawing.Size(935, 957);
             this.Controls.Add(this.ForClin);
             this.Controls.Add(this.BackRegistration);
             this.Controls.Add(this.DolBtn);
@@ -215,7 +202,6 @@
             this.Controls.Add(this.SotrudnikiForm);
             this.Controls.Add(this.SaleForm);
             this.Controls.Add(this.PostavForm);
-            this.Controls.Add(this.ClientForm);
             this.Controls.Add(this.FilialSkalForm);
             this.Controls.Add(this.SklasForm);
             this.Controls.Add(this.ComicsForm);
@@ -236,7 +222,6 @@
         private System.Windows.Forms.Button ComicsForm;
         private System.Windows.Forms.Button SklasForm;
         private System.Windows.Forms.Button FilialSkalForm;
-        private System.Windows.Forms.Button ClientForm;
         private System.Windows.Forms.Button PostavForm;
         private System.Windows.Forms.Button SaleForm;
         private System.Windows.Forms.Button SotrudnikiForm;
